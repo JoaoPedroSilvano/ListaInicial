@@ -1,0 +1,13 @@
+C:\Users\Joaof\source\repos\APLICATIVOS\APLICATIVOS\bin\Debug\netcoreapp3.1\APLICATIVOS.exe
+C:\Users\Joaof\source\repos\APLICATIVOS\APLICATIVOS\bin\Debug\netcoreapp3.1\APLICATIVOS.deps.json
+C:\Users\Joaof\source\repos\APLICATIVOS\APLICATIVOS\bin\Debug\netcoreapp3.1\APLICATIVOS.runtimeconfig.json
+C:\Users\Joaof\source\repos\APLICATIVOS\APLICATIVOS\bin\Debug\netcoreapp3.1\APLICATIVOS.runtimeconfig.dev.json
+C:\Users\Joaof\source\repos\APLICATIVOS\APLICATIVOS\bin\Debug\netcoreapp3.1\APLICATIVOS.dll
+C:\Users\Joaof\source\repos\APLICATIVOS\APLICATIVOS\bin\Debug\netcoreapp3.1\APLICATIVOS.pdb
+C:\Users\Joaof\source\repos\APLICATIVOS\APLICATIVOS\obj\Debug\netcoreapp3.1\APLICATIVOS.csprojAssemblyReference.cache
+C:\Users\Joaof\source\repos\APLICATIVOS\APLICATIVOS\obj\Debug\netcoreapp3.1\APLICATIVOS.AssemblyInfoInputs.cache
+C:\Users\Joaof\source\repos\APLICATIVOS\APLICATIVOS\obj\Debug\netcoreapp3.1\APLICATIVOS.AssemblyInfo.cs
+C:\Users\Joaof\source\repos\APLICATIVOS\APLICATIVOS\obj\Debug\netcoreapp3.1\APLICATIVOS.csproj.CoreCompileInputs.cache
+C:\Users\Joaof\source\repos\APLICATIVOS\APLICATIVOS\obj\Debug\netcoreapp3.1\APLICATIVOS.dll
+C:\Users\Joaof\source\repos\APLICATIVOS\APLICATIVOS\obj\Debug\netcoreapp3.1\APLICATIVOS.pdb
+C:\Users\Joaof\source\repos\APLICATIVOS\APLICATIVOS\obj\Debug\netcoreapp3.1\APLICATIVOS.genruntimeconfig.cache
